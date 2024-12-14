@@ -1,0 +1,11 @@
+body {
+    margin: 0.5em auto;
+    font-family: "Rubik", sans-serif;
+    font-size: 1.125rem;
+}
+
+ td {
+    border: 2px solid black;
+    padding: 0.5em;
+    
+}
